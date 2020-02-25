@@ -166,7 +166,7 @@ let createGroups=function(dimension,numberOfCubes)
 
 let rubixCube=function()
 {
-    var dimension=10;
+    var dimension=20;
     var numberOfCubes=Math.pow(dimension,2);
     cubeCreate(0.5,dimension,numberOfCubes);
    
